@@ -1,0 +1,10 @@
+game_id,player_id,position,player,team,pass_cmp,pass_att,pass_yds,pass_td
+201909050chi,RodgAa00,QB,Aaron Rodgers,GNB,20,30,200,1
+201909080crd,JohnKe06,RB,Kerryon Johnson,DET,1,1,5,0
+201909080crd,PortLe00,QB,Leo Porter,UCSD,0,1,0,0
+201909080car,GoffJa00,QB,Jared Goff,LAR,20,25,200,1
+201909050chi,RodgAa00,QB,Aaron Rodgers,GNB,10,15,150,1
+201909050chi,RodgAa00,QB,Aaron Rodgers,GNB,25,35,300,1
+201909080car,GoffJa00,QB,Jared Goff,LAR,1,1,–10,0
+201909080crd,ZingDa00,QB,Dan Zingaro,UT,1,1,–10,0
+201909050chi,RodgAa00,QB,Aaron Rodgers,GNB,15,25,150,0
